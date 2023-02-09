@@ -12,3 +12,4 @@ Switches current user to Betty
 11-directories_permissions-directory permssions
 12-directory_permissions-created a directory
 13-change_group-changed group
+change onwer and group of all files

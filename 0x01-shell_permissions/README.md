@@ -8,3 +8,4 @@ Switches current user to Betty
 7-everybody-add execute permission to everybody
 8-James_Bond- permission to other users only
 9-John_Doe- varied permission as instructed
+10-mirror_permissions-mirrors olleh permissions to hello

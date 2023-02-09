@@ -3,3 +3,4 @@ Switches current user to Betty
 2-groups-Shows the groups the effective user is part of
 3-new_owner-changes owner of file hello
 4-empty-creates an empty file known as hello
+5-execute-adds execute permission to the owner

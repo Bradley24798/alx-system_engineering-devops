@@ -5,3 +5,4 @@ Switches current user to Betty
 4-empty-creates an empty file known as hello
 5-execute-adds execute permission to the owner
 6-multiple_permissions-multiple permissions to owner,grp owner, others
+7-everybody-add execute permission to everybody

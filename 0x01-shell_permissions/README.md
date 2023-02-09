@@ -10,3 +10,4 @@ Switches current user to Betty
 9-John_Doe- varied permission as instructed
 10-mirror_permissions-mirrors olleh permissions to hello
 11-directories_permissions-directory permssions
+12-directory_permissions-created a directory

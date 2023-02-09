@@ -13,3 +13,4 @@ Switches current user to Betty
 12-directory_permissions-created a directory
 13-change_group-changed group
 change onwer and group of all files
+101-symbolic_link_permissions-changed the owner and grp owner of the file

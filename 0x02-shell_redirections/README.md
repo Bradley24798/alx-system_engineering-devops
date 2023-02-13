@@ -17,3 +17,4 @@
 16-whatsnext-Displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 17-hidethisword   -list without bin
 18-letteronly- Displays all lines of the file /etc/ssh/sshd_config starting with a letter.
+19-AZ-interchanging Ac Ze

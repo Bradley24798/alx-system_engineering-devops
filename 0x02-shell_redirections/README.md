@@ -10,3 +10,4 @@
 9-duplicate_last_line - duplicae last line of iacta
 10-no_more_js- i wont have nay .js files
 11-directories -word count
+12-newest_files - sorts ten newest files

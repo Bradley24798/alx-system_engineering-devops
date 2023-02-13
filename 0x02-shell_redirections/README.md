@@ -7,3 +7,4 @@
 6-third_line - read thrid line of the file iacta
 7-file - add a file with a complicated name
 8-cwd_state - redirects outpu of a ls -la command
+9-duplicate_last_line - duplicae last line of iacta

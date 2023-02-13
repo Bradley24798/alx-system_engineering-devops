@@ -13,3 +13,4 @@
 12-newest_files - sorts ten newest files13-unique - unique letters
 13-unique- unique lines
 14-findthatword - found it
+15-countthatword- counts number of lines that contain pattern bin

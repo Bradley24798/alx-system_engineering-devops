@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -1n | grep
+perl -1ne 'print if $. %2 ==1'
